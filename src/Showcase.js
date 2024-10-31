@@ -1,4 +1,4 @@
-import BulbasaurImage from './src/images/bulbasaur.jpg';
+import BulbasaurImage from './images/bulbasaur.jpg';
 
 function Showcase() {
     const favPokemon = 'Bulbasour';

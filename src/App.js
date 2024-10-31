@@ -1,5 +1,5 @@
-import Showcase from './src/Showcase';
-import 'App.css'
+import Showcase from './Showcase';
+import './App.css'
 
 function App() {
   return (
